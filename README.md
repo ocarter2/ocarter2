@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **OOP**
 
-- 👨‍💻 All of my projects are available at [OsborneCarter](https://osbornecarter.netlify.app/)
+- 👨‍💻 All of my projects are available on my [portfolio](https://osbornecarter.netlify.app/)
 
 - 📝 I regularly write articles on [theblackblog](https://theblackblog.netlify.app/)
 
